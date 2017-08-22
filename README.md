@@ -1,0 +1,2 @@
+# TabbedActivity
+for simple coding
